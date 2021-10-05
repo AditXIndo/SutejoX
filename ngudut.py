@@ -36,7 +36,7 @@ os.system("figlet DDOS ATTACK -f slant")
 print("SUBSCRIBE : Xs Sutejo")
 os.system("clear")
 print("Remake by : Sutejo")
-print("Subscribe : Xs Sutejo
+print("Subscribe : Xs Sutejo")
 print("""___________________________________________""")
 print("""
 ██╗░░██╗░██████╗░░░░░░
